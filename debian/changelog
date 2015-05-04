@@ -1,0 +1,67 @@
+ros-jade-nao-meshes (0.1.8-0vivid) vivid; urgency=high
+
+  * update md5 for 0.6.7 installers
+  * Update README
+  * Contributors: Mikael ARGUEDAS, Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 26 Nov 2014 23:00:00 -0000
+
+ros-jade-nao-meshes (0.1.7-0vivid) vivid; urgency=high
+
+  * update MD5 for 0.6.6 installer
+  * add a changelog
+  * Contributors: Vincent Rabaud, margueda
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Thu, 02 Oct 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.5-0vivid) vivid; urgency=high
+
+  * new way of finding the architecture
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 03 Sep 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.4-0vivid) vivid; urgency=high
+
+  * last try to fix 32 bit
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Tue, 02 Sep 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.3-0vivid) vivid; urgency=high
+
+  * installer 0.6.5 and better debug info for 32 bits
+  * add debug symbols ...
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Tue, 02 Sep 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.2-0vivid) vivid; urgency=high
+
+  * handle 32 bit and use the 0.6.4 archive
+  * add an inactivity timeout (to maybe solve quantal issues)
+  * add java dependency as the installer uses java
+  * the license should reflect the content not the code
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Thu, 28 Aug 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.1-0vivid) vivid; urgency=high
+
+  * rename the templates file
+  * install the meshes to nao_description for now
+  * get the proper URL for the installer, and devel cleanups
+    fixes #1 <https://github.com/ros-nao/nao_meshes/issues/1>
+  * update the maintainer's email address
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Tue, 26 Aug 2014 22:00:00 -0000
+
+ros-jade-nao-meshes (0.1.0-0vivid) vivid; urgency=high
+
+  * adding everything to use meshes from devel space and to create a binary
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Mon, 25 Aug 2014 22:00:00 -0000
+
+
