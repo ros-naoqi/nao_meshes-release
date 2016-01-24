@@ -2,6 +2,11 @@
 Changelog for package nao_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.9 (2016-01-24)
+------------------
+* update MD5 checksum for new installers
+* Contributors: Mikael Arguedas
+
 0.1.8 (2014-11-27)
 ------------------
 * update md5 for 0.6.7 installers
