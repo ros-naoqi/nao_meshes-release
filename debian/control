@@ -1,0 +1,12 @@
+Source: ros-jade-nao-meshes
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), default-jdk, ros-jade-catkin
+Homepage: http://github.com/vrabaud/nao_meshes/
+Standards-Version: 3.9.2
+
+Package: ros-jade-nao-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: meshes for the Aldebaran Robotics NAO
