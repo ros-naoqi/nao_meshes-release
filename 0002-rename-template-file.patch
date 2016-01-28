@@ -1,4 +1,4 @@
-From ce03e3afcbe5d4f3b437874518a82958c014234a Mon Sep 17 00:00:00 2001
+From 35fadf00cbe47a3132812d1ff705c495744c6853 Mon Sep 17 00:00:00 2001
 From: Vincent Rabaud <vincent.rabaud@gmail.com>
 Date: Wed, 27 Aug 2014 16:43:51 +0200
 Subject: [PATCH 2/2] rename template file
