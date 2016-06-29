@@ -1,3 +1,26 @@
+## nao_meshes (kinetic) - 0.1.11-1
+
+The packages in the `nao_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release nao_meshes --rosdistro kinetic --track kinetic` on `Wed, 29 Jun 2016 06:53:23 -0000`
+
+The `nao_meshes` package was released.
+
+Version of package(s) in repository `nao_meshes`:
+
+- upstream repository: https://github.com/ros-nao/nao_meshes.git
+- release repository: https://github.com/ros-naoqi/nao_meshes-release.git
+- rosdistro version: `0.1.11-0`
+- old version: `0.1.11-0`
+- new version: `0.1.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## nao_meshes (kinetic) - 0.1.11-0
 
 The packages in the `nao_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic nao_meshes` on `Thu, 16 Jun 2016 01:51:28 -0000`
