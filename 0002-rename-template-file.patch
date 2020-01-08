@@ -1,4 +1,4 @@
-From 5087f4d332956d3d4a6a344d1163d56a147339ba Mon Sep 17 00:00:00 2001
+From fb1104e2e4c48f1460faa92dc4a55ab19ef957b6 Mon Sep 17 00:00:00 2001
 From: Vincent Rabaud <vincent.rabaud@gmail.com>
 Date: Wed, 27 Aug 2014 16:43:51 +0200
 Subject: [PATCH 2/2] rename template file
@@ -13,5 +13,5 @@ similarity index 100%
 rename from debian/preinst.templates
 rename to debian/templates
 -- 
-2.7.4
+2.17.1
 
