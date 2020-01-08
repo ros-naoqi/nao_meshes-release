@@ -1,0 +1,12 @@
+Source: ros-melodic-nao-meshes
+Section: misc
+Priority: optional
+Maintainer: Maxime Busy <mbusy@softbankrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), default-jdk, ros-melodic-catkin
+Homepage: http://github.com/ros-naoqi/nao_meshes/
+Standards-Version: 3.9.2
+
+Package: ros-melodic-nao-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: meshes for the Aldebaran Robotics NAO
