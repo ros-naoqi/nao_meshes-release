@@ -1,3 +1,26 @@
+## nao_meshes (melodic) - 0.1.12-1
+
+The packages in the `nao_meshes` repository were released into the `melodic` distro by running `/usr/bin/bloom-release nao_meshes -t melodic -r melodic` on `Wed, 08 Jan 2020 16:22:06 -0000`
+
+The `nao_meshes` package was released.
+
+Version of package(s) in repository `nao_meshes`:
+
+- upstream repository: https://github.com/ros-nao/nao_meshes.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## nao_meshes (kinetic) - 0.1.12-1
 
 The packages in the `nao_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release nao_meshes -t kinetic -r kinetic` on `Wed, 08 Jan 2020 16:10:33 -0000`
