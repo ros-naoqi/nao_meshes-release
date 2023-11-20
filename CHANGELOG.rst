@@ -2,6 +2,20 @@
 Changelog for package nao_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2023-11-15)
+------------------
+* Workaround running installer in CI
+* Fix build on GitHub Actions
+* Add CI
+* Interactive agreement by default
+  Explicit option in command line to agree to license.
+  Improved interaction and messages.
+* Update maintainers
+* Rename README to README.md
+* Fix error in CMakeLists.txt
+* Upgrade nao_meshes package for ROS2
+* Contributors: Maxime Busy, Victor Paleologue, Victor Paléologue, mbusy
+
 0.1.13 (2022-09-07)
 -------------------
 * Update ERROR_FILE to ERROR_FILE_CMD in CMakeLists to avoid build crash
