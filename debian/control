@@ -1,0 +1,12 @@
+Source: ros-humble-nao-meshes
+Section: misc
+Priority: optional
+Maintainer: Victor Paleologue <victor.paleologue@palaio.eu>
+Build-Depends: debhelper (>= 9.0.0), default-jdk, ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: http://github.com/ros-naoqi/nao_meshes2/
+Standards-Version: 3.9.2
+
+Package: ros-humble-nao-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ros-workspace
+Description: ROS2 Meshes for the NAO robot
