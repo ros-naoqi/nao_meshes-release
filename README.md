@@ -1,3 +1,26 @@
+## nao_meshes (humble) - 2.1.1-1
+
+The packages in the `nao_meshes` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble nao_meshes` on `Wed, 22 Nov 2023 10:13:43 -0000`
+
+The `nao_meshes` package was released.
+
+Version of package(s) in repository `nao_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/nao_meshes2.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `2.1.0-1`
+- new version: `2.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nao_meshes (iron) - 2.1.0-1
 
 The packages in the `nao_meshes` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron nao_meshes` on `Mon, 20 Nov 2023 16:51:30 -0000`
