@@ -36,10 +36,12 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
+    - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
+      -i :{release_inc} --require-os fedora rhel
     devel_branch: main
     name: upstream
     patches: null
-    release_inc: '1'
+    release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: humble
@@ -153,10 +155,12 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
+    - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
+      -i :{release_inc} --require-os fedora rhel
     devel_branch: main
     name: upstream
     patches: null
-    release_inc: '1'
+    release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: jazzy
@@ -178,10 +182,12 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
+    - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
+      -i :{release_inc} --require-os fedora rhel
     devel_branch: main
     name: upstream
     patches: null
-    release_inc: '1'
+    release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: kilted
@@ -277,10 +283,12 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
+    - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
+      -i :{release_inc} --require-os fedora rhel
     devel_branch: main
     name: upstream
     patches: null
-    release_inc: '1'
+    release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: rolling
