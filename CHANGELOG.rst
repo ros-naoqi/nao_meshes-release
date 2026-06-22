@@ -2,6 +2,11 @@
 Changelog for package nao_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.2 (2026-06-15)
+------------------
+* Remove java dependency
+* Contributors: Kenji Brameld
+
 2.1.1 (2023-11-22)
 ------------------
 * Download and install directly in bin dir
