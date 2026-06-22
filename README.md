@@ -1,3 +1,26 @@
+## nao_meshes (kilted) - 2.1.2-1
+
+The packages in the `nao_meshes` repository were released into the `kilted` distro by running `/root/Code/Palaio/naoqi-ros2-control/bloom-venv/bin/bloom-release -y --no-web --no-pull-request --override-release-repository-url https://github.com/ros-naoqi/nao_meshes-release.git -r kilted -t kilted nao_meshes` on `Mon, 22 Jun 2026 09:37:28 -0000`
+
+The `nao_meshes` package was released.
+
+Version of package(s) in repository `nao_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/nao_meshes2.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## nao_meshes (jazzy) - 2.1.2-1
 
 The packages in the `nao_meshes` repository were released into the `jazzy` distro by running `/root/Code/Palaio/naoqi-ros2-control/bloom-venv/bin/bloom-release -y --no-web --no-pull-request --override-release-repository-url https://github.com/ros-naoqi/nao_meshes-release.git -r jazzy -t jazzy nao_meshes` on `Mon, 22 Jun 2026 09:36:43 -0000`
